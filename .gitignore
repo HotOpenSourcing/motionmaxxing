@@ -17,8 +17,7 @@ draft*.mp4
 !docs/media/*.mp4
 
 # secrets, never
-.env
-.env.*
 .keys
 .key
 *.pem
+config.bat
